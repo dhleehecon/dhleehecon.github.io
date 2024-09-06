@@ -21,7 +21,7 @@ repository               : "dhleehecon/dhleehecon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "500x300.png"
+  avatar           : "dhlee.png"
   name             : "Donghoon Lee"
   pronouns         : # example: "she/her"  
   bio              : "         "
