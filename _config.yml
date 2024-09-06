@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Donghoon Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Health Economist"
+  bio              : #"Health Economist"
   location         : # "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
