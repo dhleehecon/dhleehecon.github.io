@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at the CHOICE Institute, University of Washington.
+            I am a post-doctoral researcher at the CHOICE Institute, University of Washington.
