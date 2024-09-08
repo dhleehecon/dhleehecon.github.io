@@ -12,4 +12,4 @@ My research combines the analytical frameworks of economics, health services res
 
 I completed my Ph.D. in Health Services Research (Health Economics) from the University of Washington in 2023 with Anirban Basu as my advisor.
 
-Here is my <ul>{% for post in site.publications reversed %}{CV}.
+Here is my <ul>{CV}.
