@@ -16,7 +16,7 @@ Selected Working Papers
 * **Lee, D.**, Basu, A.,  Dugan, J., Karaca-Mandic P. Do for-profit hospitals cream-skim patients? Evidence from inpatient psychiatric care in California. 
 NBER Working Paper No. 32179. R&R at $\text{\color{blue}Journal of Health Economics}$
 
-* **Lee, D.**, Li, J. Medicare enrollment at age 65 increases visits to primary care but not mental health care providers. ***R&R*** at  $\text{$${\color{blue}Health \space Affairs}$$}
+* **Lee, D.**, Li, J. Medicare enrollment at age 65 increases visits to primary care but not mental health care providers. ***R&R*** at  $\text{$${\color{blue}Health \space Affairs}$$}$
 
 * **Lee, D.**, Basu, A. Deploying differential distance as an instrumental variable: Alternative forms, estimators, and specifications. *(Under Review)*
 
