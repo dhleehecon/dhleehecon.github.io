@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a health economist and a postdoctoral researcher at the CHOICE Institute, University of Washington.
 
-My research combines the analytical frameworks of economics, health services research, and social determinants of health to deepen our understanding of the causes and consequences of health care decision-making. In particular, I focus on identifying causal relationships by leveraging large-scale health care data and applying advanced econometrics methods in innovative ways.
+My research combines the analytical frameworks of economics, health services research, and social determinants of health to deepen our understanding of the causes and consequences of health care decision-making. In particular, I focus on identifying causal relationships by leveraging large-scale health care data and applying econometrics methods in innovative ways.
 
 I completed my PhD in Health Economics at the University of Washington in 2023.
 
