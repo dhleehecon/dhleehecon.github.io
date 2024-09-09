@@ -28,7 +28,7 @@ NBER Working Paper No. 32179. ***R&R*** at $${\color{blue}Journal \space of \spa
 Publications
 ------
 
-**Lee, D.**, Kim, S., Dugan, J. (2024). The effect of prescription drug insurance on the incidence of potentially inappropriate prescribing: Evidence from Medicare Part D. $${\color{blue}Health \space Economics}$$, 33(1):137-152
+* **Lee, D.**, Kim, S., Dugan, J. (2024). The effect of prescription drug insurance on the incidence of potentially inappropriate prescribing: Evidence from Medicare Part D. $${\color{blue}Health \space Economics}$$, 33(1):137-152
 
 **Lee, D.**, Dugan, J. (2023). Medicaid expansions and access to substance abuse treatment services among Limited English Proficiency populations. *Medical Care, 61(12):858-865*.
 
