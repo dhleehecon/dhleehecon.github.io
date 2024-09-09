@@ -45,6 +45,6 @@ Publications
 					
 * **Lee, D.**, Shin, HY., Park, SM. (2018). Cost-effectiveness of antiviral prophylaxis during pregnancy for the prevention of perinatal hepatitis B infection in South Korea. *Cost Effectiveness and Resource Allocation, 16:6*.	
 					
-Kim, K., Shin, D., Jung, GU., **Lee, D.**, Park, SM. (2017). Association between sleep duration, fat mass, lean mass, and obesity in Korean adults: the Fourth and Fifth Korean National Health and Nutrition Examination Survey. *Journal of Sleep Research, 26:453-460*.
+* Kim, K., Shin, D., Jung, GU., **Lee, D.**, Park, SM. (2017). Association between sleep duration, fat mass, lean mass, and obesity in Korean adults: the Fourth and Fifth Korean National Health and Nutrition Examination Survey. *Journal of Sleep Research, 26:453-460*.
 					
-**Lee, D.**, Park, SM. (2016). Cost-effectiveness analysis of hepatitis B vaccination strategies to prevent perinatal transmission in North Korea: selective vaccination vs. universal vaccination. *PLOS ONE, 11(11):e0165879*.
+* **Lee, D.**, Park, SM. (2016). Cost-effectiveness analysis of hepatitis B vaccination strategies to prevent perinatal transmission in North Korea: selective vaccination vs. universal vaccination. *PLOS ONE, 11(11):e0165879*.
