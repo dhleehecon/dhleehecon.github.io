@@ -31,6 +31,7 @@ among US households.
 
 Publications
 ------
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+{\bf Lee, D.}, Basu, A.,  Dugan, J., Karaca-Mandic P. Do for-profit hospitals cream-skim 
+patients? Evidence from inpatient psychiatric care in California. 
+NBER Working Paper No. 32179. \\  (R\&R at {\color{blue}\it Journal of Health Economics})
