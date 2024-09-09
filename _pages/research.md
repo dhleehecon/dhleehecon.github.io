@@ -32,19 +32,19 @@ Publications
 
 **Lee, D.**, Dugan, J. (2023). Medicaid expansions and access to substance abuse treatment services among Limited English Proficiency populations. *Medical Care, 61(12):858-865*.
 
-**Lee, D.**, Lavayen, M., Kim, T., Legins, K., Seidel, M.  (2023). Association of vaccine stockout with immunization coverage in low-income and middle-income countries: a retrospective cohort study. BMJ Open, 13: e072364.
+**Lee, D.**, Lavayen, M., Kim, T., Legins, K., Seidel, M.  (2023). Association of vaccine stockout with immunization coverage in low-income and middle-income countries: a retrospective cohort study. *BMJ Open, 13: e072364*.
 
-Wright, A., **Lee, D.**, Marshall, A., Booshehri, L., Dugan, J. (2022). Examining the effects of social and cash transfer programs for homeless adults: Evidence from the Samaritan Pilot. Public Health in Practice, 4: 100331. 
+Wright, A., **Lee, D.**, Marshall, A., Booshehri, L., Dugan, J. (2022). Examining the effects of social and cash transfer programs for homeless adults: Evidence from the Samaritan Pilot. *Public Health in Practice, 4: 100331*. 
 
-**Lee, D.**, Kim, Y., Devine, B. (2022). Spillover effects of mental health disorders on family members’ health-related quality of life: Evidence from a US sample. Medical Decision Making, 42(1): 80-93.		
+**Lee, D.**, Kim, Y., Devine, B. (2022). Spillover effects of mental health disorders on family members’ health-related quality of life: Evidence from a US sample. *Medical Decision Making, 42(1): 80-93*.		
 			
-**Lee, D.**, Lee, YR., Oh, IH. (2019). Cost-effectiveness of smoking cessation programs for hospitalized patients: a systematic review. European Journal of Health Economics, 20(9):1409-24.				
+**Lee, D.**, Lee, YR., Oh, IH. (2019). Cost-effectiveness of smoking cessation programs for hospitalized patients: a systematic review. *European Journal of Health Economics, 20(9):1409-24*.				
 					
 Lee, YR., Cho, B., Jo, MW., Ock, M., **Lee, D.**, Lee, D., Kim, MJ., Oh, IH. (2019). Measuring the economic burden of disease and injury in Korea, 2015. 
-Journal of Korean Medical Science, 34(supp; 1):e80.
+*Journal of Korean Medical Science, 34(supp; 1):e80*.
 					
-**Lee, D.**, Shin, HY., Park, SM. (2018). Cost-effectiveness of antiviral prophylaxis during pregnancy for the prevention of perinatal hepatitis B infection in South Korea. Cost Effectiveness and Resource Allocation, 16:6.	
+**Lee, D.**, Shin, HY., Park, SM. (2018). Cost-effectiveness of antiviral prophylaxis during pregnancy for the prevention of perinatal hepatitis B infection in South Korea. *Cost Effectiveness and Resource Allocation, 16:6*.	
 					
-Kim, K., Shin, D., Jung, GU., **Lee, D.**, Park, SM. (2017). Association between sleep duration, fat mass, lean mass, and obesity in Korean adults: the Fourth and Fifth Korean National Health and Nutrition Examination Survey. Journal of Sleep Research, 26:453-460.
+Kim, K., Shin, D., Jung, GU., **Lee, D.**, Park, SM. (2017). Association between sleep duration, fat mass, lean mass, and obesity in Korean adults: the Fourth and Fifth Korean National Health and Nutrition Examination Survey. *Journal of Sleep Research, 26:453-460*.
 					
-**Lee, D.**, Park, SM. (2016). Cost-effectiveness analysis of hepatitis B vaccination strategies to prevent perinatal transmission in North Korea: selective vaccination vs. universal vaccination. PLOS ONE, 11(11):e0165879.
+**Lee, D.**, Park, SM. (2016). Cost-effectiveness analysis of hepatitis B vaccination strategies to prevent perinatal transmission in North Korea: selective vaccination vs. universal vaccination. *PLOS ONE, 11(11):e0165879*.
