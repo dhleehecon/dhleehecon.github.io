@@ -28,7 +28,7 @@ Selected Working Papers
 Publications
 ------
 
-* **Lee, D.**, Kim, S., Dugan, J. (2024). The effect of prescription drug insurance on the incidence of potentially inappropriate prescribing: Evidence from Medicare Part D. *Health Economics*, 33(1):137-152 [link](https://doi.org/10.1002/hec.4766)
+* **Lee, D.**, Kim, S., Dugan, J. (2024). The effect of prescription drug insurance on the incidence of potentially inappropriate prescribing: Evidence from Medicare Part D. *Health Economics*, 33(1):137-152 [[Link]](https://doi.org/10.1002/hec.4766)
 
 * **Lee, D.**, Dugan, J. (2023). Medicaid expansions and access to substance abuse treatment services among Limited English Proficiency populations. *Medical Care*, 61(12):858-865.
 
