@@ -12,4 +12,4 @@ My research integrates the analytical frameworks of economics, health services r
 
 I completed my PhD in Health Economics at the University of Washington in 2023.
 
-Here is my [CV](CV_DLee.pdf).
+I am on the job market<ins>text</ins> in the 2024-2025 academic year. Here is my [CV](CV_DLee.pdf).
