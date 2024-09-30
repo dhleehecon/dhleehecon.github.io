@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a health economist and a postdoctoral research fellow at the Comparative Health Outcomes, Policy, and Economics (CHOICE) Institute at University of Washington.
 
-My research combines the analytical frameworks of economics, health services research, and social determinants of health to offer solutions to complex health policy challenges. I have a strong interest in studying topics related to mental health services, aging, informal caregiving, and vulnerable populations. 
+My research combines the analytical frameworks of economics, health services research, and social determinants of health to address complex health policy challenges. I have a strong interest in studying topics related to mental health services, aging, informal caregiving, and vulnerable populations. 
 
 I completed my PhD in Health Economics at University of Washington in 2023.
 
