@@ -12,4 +12,4 @@ My research combines the analytical frameworks of economics, health services res
 
 I received my PhD in Health Economics from University of Washington in 2023.
 
-I am <ins>on the job market</ins> in the 2024-2025 academic year. Please find my <ins>CV</ins> [here](CV_DLee.pdf).
+I am <ins>on the job market</ins> in the 2024-2025 academic year. For more information, please see my CV <ins>[here](CV_DLee.pdf)</ins>.
