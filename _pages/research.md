@@ -18,7 +18,7 @@ Selected Working Papers
 
 * **Lee, D.**, Li, J. Medicare enrollment at age 65 increases visits to primary care but not mental health care providers. *R&R at Health Affairs*
 
-* **Lee, D.**, Basu, A. Deploying differential distance as an instrumental variable: Alternative forms, estimators, and specifications. *(Under Review)*
+* **Lee, D.**, Basu, A. Deploying differential distance as an instrumental variable: Alternative forms, estimators, and specifications. *R&R at Health Economics*
 
 * **Lee, D.**, Basu, A., Karaca-Mandic P. Competition in inpatient psychiatric care markets: Implications for costs and the quality of care. 
 
