@@ -11,4 +11,4 @@ redirect_from:
 
 
 **University of Washington**
-* SPH 480 Research Methods in Public Health (Autumn 2020 - Spring 2022)
+* Research Methods in Public Health (Autumn 2020 - Spring 2022)
