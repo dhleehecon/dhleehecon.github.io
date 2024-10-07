@@ -11,5 +11,4 @@ redirect_from:
 
 
 **University of Washington**
-
 * Research Methods for Public Health (Autumn 2020 - Spring 2022)
