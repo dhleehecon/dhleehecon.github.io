@@ -11,4 +11,4 @@ redirect_from:
 
 
 **University of Washington**
-* Research Methods in Public Health (Autumn 2020 - Spring 2022)
+* Research Methods in Public Health (Teaching Assistant, Autumn 2020 - Spring 2022)
