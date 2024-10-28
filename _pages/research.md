@@ -16,8 +16,6 @@ Selected Working Papers
 * **Lee, D.**, Basu, A.,  Dugan, J., Karaca-Mandic, P. Do for-profit hospitals cream-skim patients? Evidence from inpatient psychiatric care in California. 
 *R&R at Journal of Health Economics*
 
-* **Lee, D.**, Li, J. Medicare enrollment at age 65 increases visits to primary care but not mental health care providers. *R&R at Health Affairs*
-
 * **Lee, D.**, Basu, A. Deploying differential distance as an instrumental variable: Alternative forms, estimators, and specifications. *R&R at Health Economics*
 
 * **Lee, D.**, Basu, A., Karaca-Mandic, P. Competition in inpatient psychiatric care markets: Implications for costs and the quality of care. 
@@ -28,6 +26,8 @@ Selected Working Papers
 Publications
 ------
 
+* **Lee, D.**, Li, J. Medicare enrollment increases visits to primary care providers but not mental health care providers. *Accepted at Health Affairs*
+  
 * **Lee, D.**, Kim, S., Dugan, J. The effect of prescription drug insurance on the incidence of potentially inappropriate prescribing: Evidence from Medicare Part D. *Health Economics*, 2024. [[Link]](https://doi.org/10.1002/hec.4766)
 
 * **Lee, D.**, Dugan, J. Medicaid expansions and access to substance abuse treatment services among Limited English Proficiency populations. *Medical Care*, 2023. [[Link]](https://doi.org/10.1097/MLR.0000000000001928)
