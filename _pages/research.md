@@ -18,10 +18,6 @@ Selected Working Papers
 
 * **Lee, D.**, Basu, A. Deploying differential distance as an instrumental variable: Alternative forms, estimators, and specifications. *R&R at Health Economics*
 
-* **Lee, D.**, Basu, A., Karaca-Mandic, P. Competition in inpatient psychiatric care markets: Implications for costs and the quality of care. 
-
-* **Lee, D.**, Li, J. Financial determinants and consequences of intergenerational caregiving among US households.
-
 
 Publications
 ------
