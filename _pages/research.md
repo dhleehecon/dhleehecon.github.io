@@ -22,7 +22,7 @@ Selected Working Papers
 Publications
 ------
 
-* **Lee, D.**, Li, J. Medicare enrollment increases visits to primary care providers but not to mental health care providers. *Accepted at Health Affairs*
+* **Lee, D.**, Li, J. Medicare enrollment increases visits to primary care providers but not mental health care providers. *Accepted at Health Affairs*
   
 * **Lee, D.**, Kim, S., Dugan, J. The effect of prescription drug insurance on the incidence of potentially inappropriate prescribing: Evidence from Medicare Part D. *Health Economics*, 2024. [[Link]](https://doi.org/10.1002/hec.4766)
 
