@@ -22,7 +22,7 @@ Selected Publications
 * **Lee, D.**, Basu, A.,  Dugan, J., Karaca-Mandic, P. Do for-profit hospitals cream-skim patients? Evidence from inpatient psychiatric care in California. 
 *Accepted at Journal of Health Economics*
 
-* **Lee, D.**, Basu, A. Deploying differential distance as an instrumental variable: Alternative forms, estimators, and specifications. *Accepted at Health Economics*
+* **Lee, D.**, Basu, A. Deploying differential distance as an instrumental variable: Alternative forms, estimators, and specifications. *Health Economics*, 2025. [[Link]](https://doi.org/10.1002/hec.70003)
 
 * **Lee, D.**, Li, J. Medicare enrollment increased visits to primary care providers but not mental health care providers, 2014-21. *Health Affairs*, 2025. [[Link]](https://doi.org/10.1377/hlthaff.2024.00666)
   
