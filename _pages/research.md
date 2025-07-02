@@ -20,7 +20,7 @@ Selected Working Papers
 Selected Publications
 ------
 * **Lee, D.**, Basu, A.,  Dugan, J., Karaca-Mandic, P. Do for-profit hospitals cream-skim patients? Evidence from inpatient psychiatric care in California. 
-*Accepted at Journal of Health Economics*
+*Journal of Health Economics*, 2025. [[Link]](https://doi.org/10.1016/j.jhealeco.2025.103027)
 
 * **Lee, D.**, Basu, A. Deploying differential distance as an instrumental variable: Alternative forms, estimators, and specifications. *Health Economics*, 2025. [[Link]](https://doi.org/10.1002/hec.70003)
 
