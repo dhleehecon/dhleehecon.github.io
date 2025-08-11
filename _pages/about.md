@@ -6,10 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a health economist and a postdoctoral research fellow in the Comparative Health Outcomes, Policy, and Economics (CHOICE) Institute at University of Washington.
+I am a health economist and a postdoctoral research fellow in the Division of Geriatric Medicine at the University of Colorado Anschutz Medical Campus.
 
-My research combines the analytical frameworks of economics, health services research, and social determinants of health to address complex health policy challenges. I am particularly interested in studying topics related to Medicare, mental health, aging, and vulnerable populations. 
+My research applies the analytical frameworks of economics and health services research to examine the health and economic well-being of older adults and their family caregivers, with a particular focus on mental health and dementia. My first-authored publications have appeared in leading health economics and policy journals, including *Journal of Health Economics, Health Economics, and Health Affairs*. 
 
-I received my PhD in Health Economics from University of Washington in 2023. 
+I received a PhD in Health Economics from the University of Washington and an MSc in Health Policy from the London School of Economics.
 
 For more information, please see my CV [here](CV_DLee.pdf).
