@@ -10,6 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
+**University of Colorado Denver**
+* Health Economics (Postdoctoral Teaching Fellow; Spring 2026)
+
 **University of Washington**
 * Research Methods in Public Health (Teaching Assistant; Autumn 2020 - Spring 2022)
 
