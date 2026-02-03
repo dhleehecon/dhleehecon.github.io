@@ -11,7 +11,7 @@ redirect_from:
 
 
 **University of Colorado Denver**
-* ECON 7662 Health Economics (Postdoctoral Teaching Fellow; Spring 2026)
+* ECON 7662 Health Economics (Postdoctoral Teaching Fellow (Solo instructor); Spring 2026)
 
 **University of Washington**
 * SPH 480 Research Methods in Public Health (Teaching Assistant; Autumn 2020 - Spring 2022)
