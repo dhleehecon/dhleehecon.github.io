@@ -13,9 +13,9 @@ redirect_from:
 Selected Working Papers
 ------
 
-* **Lee, D.**, Li, J. Financial determinants and consequences of intergenerational caregiving among US households. 
+* **Lee, D.**, Li, J. Lost wages or last wills? Intergenerational caregiving and household wealth trajectories. *Under review*
 
-* **Lee, D.**, Park, S., Gray S., Li, J. Association of psychotropic medication use with emergency department visits, hospitalizations, and related expenditures among older adults with cognitive impairment: A retrospective cohort study.
+* **Lee, D.**, Park, S., Gray S., Li, J. Association of psychotropic medication use with emergency department visits, hospitalizations, and related expenditures among older adults with cognitive impairment: A retrospective cohort study. *Under review*
 
 Selected Publications
 ------
